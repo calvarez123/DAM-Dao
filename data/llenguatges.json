@@ -1,0 +1,30 @@
+[
+    {
+        "popularitat": 1,
+        "id": 1,
+        "nom": "Python",
+        "any": 1991,
+        "dificultat": "mitja"
+    },
+    {
+        "popularitat": 2,
+        "id": 2,
+        "nom": "JavaScript",
+        "any": 1995,
+        "dificultat": "mitja"
+    },
+    {
+        "popularitat": 3,
+        "id": 3,
+        "nom": "Java",
+        "any": 1995,
+        "dificultat": "mitja"
+    },
+    {
+        "popularitat": 4,
+        "id": 4,
+        "nom": "C++",
+        "any": 1985,
+        "dificultat": "difícil"
+    }
+]

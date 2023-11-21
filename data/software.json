@@ -1,0 +1,41 @@
+[
+    {
+        "llenguatges": [1],
+        "id": 1,
+        "nom": "Django",
+        "any": 2005
+    },
+    {
+        "llenguatges": [2],
+        "id": 2,
+        "nom": "React",
+        "any": 2013
+    },
+    {
+        "llenguatges": [4],
+        "id": 3,
+        "nom": "Minecraft",
+        "any": 2011
+    },
+    {
+        "llenguatges": [
+            3,
+            5
+        ],
+        "id": 4,
+        "nom": "Android Studio",
+        "any": 2013
+    },
+    {
+        "llenguatges": [2],
+        "id": 5,
+        "nom": "Node.js",
+        "any": 2009
+    },
+    {
+        "llenguatges": [3],
+        "id": 11,
+        "nom": "webTool",
+        "any": 2022
+    }
+]

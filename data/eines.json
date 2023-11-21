@@ -1,0 +1,29 @@
+[
+    {
+        "llenguatges": [1],
+        "id": 1,
+        "nom": "PyCharm",
+        "any": 2010
+    },
+    {
+        "llenguatges": [
+            1,
+            2
+        ],
+        "id": 2,
+        "nom": "Visual Studio Code",
+        "any": 2015
+    },
+    {
+        "llenguatges": [3],
+        "id": 3,
+        "nom": "Eclipse",
+        "any": 2001
+    },
+    {
+        "llenguatges": [3],
+        "id": 4,
+        "nom": "Visual Studio",
+        "any": 1997
+    }
+]
